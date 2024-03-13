@@ -3,7 +3,7 @@ package day01.sec03;
 public class OperationPromotion {
 	public static void main(String[] args) {
 		byte result1 = 10 + 20; 	//컴파일 단계에서 연산
-		System.out.println("result1: "+ result1 );
+	//	System.out.println("result1: "+ result1 );
 		
 		byte v1 =10;
 		byte v2 = 20;
